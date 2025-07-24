@@ -1,5 +1,9 @@
-<h1 align="center">Hi there 👋, I'm João Lucas Almeida Pereira</h1>
-<h3 align="center">🎮 Game Developer | Gameplay Programmer | Console Porting Specialist 🕹️</h3>
+<div align="center" style="background-color:#1f4037;padding:20px;border-radius:15px;margin-bottom:20px">
+  <h1 style="color:#ffffff;font-family:sans-serif;">🎮 João Lucas Almeida Pereira</h1>
+  <p style="color:#d4ffd4;font-size:18px;font-weight:bold;">
+    Game Developer • Gameplay Programmer • Console Porting Specialist
+  </p>
+</div>
 
 ---
 
