@@ -1,13 +1,13 @@
-<div align="center" style="background-color:#1f4037;padding:20px;border-radius:15px;margin-bottom:20px">
-  <h1 style="color:#ffffff;font-family:sans-serif;">🎮 João Lucas Almeida Pereira</h1>
-  <p style="color:#d4ffd4;font-size:18px;font-weight:bold;">
-    Game Developer • Gameplay Programmer • Console Porting Specialist
-  </p>
-</div>
+<h1 align="center">🎮 João Lucas Almeida Pereira 🕹️</h1>
+<h3 align="center">Game Developer • Gameplay Programmer • Console Porting Specialist</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joao-Lucas-AP&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ---
 
-💡 I’m a passionate game developer from Brazil with **4+ years of experience** developing and porting games for **PC, mobile, and consoles** — including multiple published titles on the **Nintendo Switch**.
+🧠 I'm a passionate game developer from Brazil with **4+ years of experience** developing and porting games for **PC, mobile, and consoles** — including multiple published titles on the **Nintendo Switch**.
 
 ---
 
@@ -19,35 +19,15 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- **Game Engines**: Unity, GameMaker, Unreal
-- **Programming**: C#, C++, Python, Java
-- **Console Dev**: Nintendo Switch SDK, Joy-Con input systems, performance optimization
-- **Tools**: Git, MySQL, Visual Studio, VS Code
-- **Art & Animation**: Blender, Maya, Photoshop, Illustrator
-- **Other**: LLM/AI integration, dialogue systems, gameplay tuning
+**Game Engines:** Unity, GameMaker, Unreal  
+**Programming:** C#, C++, Python, Java  
+**Console Dev:** Nintendo Switch SDK, Joy-Con input systems, performance optimization  
+**Tools:** Git, MySQL, Visual Studio, VS Code  
+**Art & Animation:** Blender, Photoshop, Illustrator  
 
 ---
 
-### 🎓 Education
-- 🎮 Bachelor's in Game Development – UNICAP
-- 🎓 Postgraduate in Game Development – Estácio
-- 💻 M.Sc. in Software Engineering – CESAR School (in progress)
-
----
-
-### 🌐 Portfolio & Links
-- 🎮 [Game Dev Portfolio](https://joao-lucas-almeida.itch.io)
-- 🎨 [ArtStation](https://joaolucasalmeida.artstation.com)
-- 📧 Email: jlucasap@hotmail.com
-
----
-
-### 🤝 Let’s connect!
-I’m always excited to collaborate on impactful and technically challenging game projects.  
-If you’re building something awesome — let’s talk!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaolucasalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="joaolucasalmeida" />
-</p>
+### 📫 Contact & links
+- 📧 jlucasap@hotmail.com  
+- 🎮 [joao-lucas-almeida.itch.io](https://joao-lucas-almeida.itch.io)  
+- 🎨 [joaolucasalmeida.artstation.com](https://joaolucasalmeida.artstation.com)  
