@@ -1,10 +1,6 @@
 <h1 align="center">🎮 João Lucas Almeida Pereira 🕹️</h1>
 <h3 align="center">Game Developer • Gameplay Programmer • Console Porting Specialist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joao-Lucas-AP&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
 ---
 
 🧠 I'm a passionate game developer from Brazil with **4+ years of experience** developing and porting games for **PC, mobile, and consoles** — including multiple published titles on the **Nintendo Switch**.
