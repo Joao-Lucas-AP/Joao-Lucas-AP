@@ -15,10 +15,14 @@
 ---
 
 ### 🛠️ Technologies & Tools
-**Game Engines:** Unity, GameMaker, Unreal  
-**Programming:** C#, C++, Python, Java  
+**Game Engines:** Unity, GameMaker, Unreal
+
+**Programming:** C#, C++, Python, Java
+
 **Console Dev:** Nintendo Switch SDK, Joy-Con input systems, performance optimization  
+
 **Tools:** Git, MySQL, Visual Studio, VS Code  
+
 **Art & Animation:** Blender, Photoshop, Illustrator  
 
 ---
