@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm João Lucas Almeida Pereira</h1>
-<h3 align="center">🎮 Game Developer | Gameplay Programmer | Console Porting Specialist</h3>
+<h3 align="center">🎮 Game Developer | Gameplay Programmer | Console Porting Specialist 🕹️</h3>
 
 ---
 
@@ -15,11 +15,11 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- **Game Engines**: Unity, GameMaker, Unreal (basic)
+- **Game Engines**: Unity, GameMaker, Unreal
 - **Programming**: C#, C++, Python, Java
 - **Console Dev**: Nintendo Switch SDK, Joy-Con input systems, performance optimization
 - **Tools**: Git, MySQL, Visual Studio, VS Code
-- **Art & Animation**: Blender, Photoshop, Illustrator
+- **Art & Animation**: Blender, Maya, Photoshop, Illustrator
 - **Other**: LLM/AI integration, dialogue systems, gameplay tuning
 
 ---
